@@ -1,0 +1,78 @@
+aside {
+    width: 15%;
+    height: 750px;
+    padding-top: 20px;
+    background-color: #65a5fa;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    
+    
+}
+article{
+    float: left;
+}
+.color-white {
+    color: #ffffff;
+}
+
+body {
+    
+    height: 100%;
+    
+    margin: 10px;
+    
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+h3 {
+    display: inline;
+    margin-right: 10px;
+    
+}
+/*横向列表*/
+.horizontal {
+    display: inline;
+    margin-right: 30px;
+}
+.title {
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.clearFloat {
+    clear: both;
+}
+.control {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    
+    
+    
+}
+input {
+    width: 10%;
+    height: 40px;
+    background-color: #F8A1A4;
+    border-radius: 2em;
+    border: none;
+    margin: 0 10px;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+    outline: none;
+}
+
+input:visited,
+input:hover,
+input:active
+{
+ background-color: #ED1C24;
+}
+ 
